@@ -4,21 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e16f2824-ca89-40ae-b3da-ba580a93beae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/courses/javabasics/Draw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/courses/javabasics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homeworks/SumOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/CarBrands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/FuelType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/oop/Main.java" afterDir="false" />
+    <list default="true" id="e16f2824-ca89-40ae-b3da-ba580a93beae" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/PersonSex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/interfaces/AbstractCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/interfaces/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/interfaces/CarSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/interfaces/Dacia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/interfaces/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/oop/interfaces/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/CarBrands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/CarBrands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -55,7 +61,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Draw">
+  <component name="RunManager" selected="Application.LeapYear">
     <configuration name="Draw" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="courses.javabasics.Draw" />
       <module name="autbetfair" />
@@ -164,6 +170,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
